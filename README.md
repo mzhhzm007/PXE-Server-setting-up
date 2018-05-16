@@ -1,2 +1,2 @@
-# PXE-Server-setting-up1
+# PXE-Server-setting-up
 an introduction about PXE Server setting up
